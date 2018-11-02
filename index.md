@@ -8,4 +8,4 @@ MX Record helps you find the best newsletter in your industry - and helps high q
 * [Kneeling Bus](http://kneelingbus.net) covers urbanism, technology, and infrastructure. 
 
 ### Contact us
-To suggest a high quality newsletter for inclusion here, send a note to [unit332a@gmail.com](mailto:unit332@googlegroups.com).
+To suggest a high quality newsletter for inclusion here, send a note [here](mailto:mxrecordgroup@gmail.com).
