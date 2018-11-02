@@ -1,7 +1,7 @@
-# unit332
+# MX Record
 ## A collection of high quality email newsletters
 
-unit332 helps you find the best newsletter in your industry - and helps high quality newsletters grow their audiences.
+MX Record helps you find the best newsletter in your industry - and helps high quality newsletters grow their audiences.
 
 ### Our family
 * [The Prepared](http://theprepared.org/newsletter) covers engineering, manufacturing, and project management.
