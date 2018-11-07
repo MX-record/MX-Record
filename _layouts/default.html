@@ -21,8 +21,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <h1> TEST - DREW </h1>
         
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -32,11 +30,11 @@
         </ul>
         {% endif %}
       </header>
-      <section>
+      <div>
 
       {{ content }}
 
-      </section>
+      </div>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
